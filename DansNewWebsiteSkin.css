@@ -21,3 +21,10 @@ float: right;
 #bottom{
 font-size:12px
 }
+#home{
+float: right;
+}
+#indent{
+display: block;
+margin-left: 100px;
+}
