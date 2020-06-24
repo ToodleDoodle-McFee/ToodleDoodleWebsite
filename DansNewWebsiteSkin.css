@@ -34,3 +34,12 @@ float: left;
 #Map2040{
 text-align: center;
 }
+#leftFloat{
+float: left;
+}
+#rightFloat{
+float: right;
+}
+table, th, td {
+  border: 1px solid lime;
+}
